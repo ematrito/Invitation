@@ -1,4 +1,4 @@
-# 💍 Our Wedding Invitation Swapper
+# 💍 My Wedding Invitation Swapper
 
 A simple, lightweight web project designed as our digital wedding invitation, featuring a two-image swapping interaction.
 
@@ -15,3 +15,4 @@ A simple, lightweight web project designed as our digital wedding invitation, fe
 The project is built using pure HTML, CSS, and JavaScript, making it fast and easy to deploy.
 
 ## 🛠️ View Live on:
+ematrito.github.io/Invitation/
