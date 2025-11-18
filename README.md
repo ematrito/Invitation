@@ -15,4 +15,4 @@ A simple, lightweight web project designed as our digital wedding invitation, fe
 The project is built using pure HTML, CSS, and JavaScript, making it fast and easy to deploy.
 
 ## 🛠️ View Live on:
-ematrito.github.io/Invitation/
+[ematrito.github.io/Invitation/](https://ematrito.github.io/Invitation/)
